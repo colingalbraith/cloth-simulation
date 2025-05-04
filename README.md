@@ -1,4 +1,4 @@
-# Cloth Simulation Project
+# Cloth Simulation v0.2
 
 A sophisticated cloth simulation built using Pygame, demonstrating realistic cloth physics and rendering techniques. The simulation includes features such as dynamic tearing and user interaction for grabbing and cutting the cloth.
 
