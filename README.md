@@ -2,6 +2,12 @@
 
 A sophisticated cloth simulation built using Pygame, demonstrating realistic cloth physics and rendering techniques. The simulation includes features such as dynamic tearing and user interaction for grabbing and cutting the cloth.
 
+
+
+https://github.com/user-attachments/assets/8bfd5407-2388-476a-b1c9-a0638071159f
+
+
+
 ## Features
 
 - **Realistic Cloth Physics**: Simulates the behavior of cloth using particle and spring models with verlet integration
